@@ -128,7 +128,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/teleport](https://github.com/jadenblack/teleport)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|311<br/>Tools used|12/14/23 <br/>Report generated|
+|312<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -679,7 +679,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (248)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (249)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/21112/default_1346bbda8fe03e4dce5601323a3ca47a10c1ae36.png'/> Go Packages (175)
 
@@ -862,7 +862,7 @@ Full tech stack [here](/techstack.md)
 |[zerolog](https://pkg.go.dev/github.com/rs/zerolog)|v1.13.0|12/05/22|Tim Buckley |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (73)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (74)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -939,6 +939,7 @@ Full tech stack [here](/techstack.md)
 |[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.10.0|12/06/23|Ryan Clark |MIT|N/A|
 |[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v4.11.1|12/06/23|Ryan Clark |MIT|N/A|
 |[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v3.6.2|09/12/19|Alexey Kontsevoy |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.5.1|08/12/22|Rafał Cieślak |MIT|N/A|
 
 <br/>
 <div align='center'>
