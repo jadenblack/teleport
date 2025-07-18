@@ -62,7 +62,7 @@
     "clean-webpack-plugin": "4.0.0",
     "core-js": "^3",
     "cross-env": "5.0.5",
-    "cross-spawn": "6.0.5",
+    "cross-spawn": "6.0.6",
     "electron-builder": "^24.4.0",
     "eslint": "^8.50.0",
     "eslint-import-resolver-typescript": "^3.6.1",
@@ -92,12 +92,12 @@
     "react-transition-group": "^4.4.2",
     "rollup-plugin-visualizer": "^5.9.0",
     "styled-components": "5.3.11",
-    "vite": "^5.0.5",
+    "vite": "^7.0.5",
     "vite-tsconfig-paths": "^4.2.1",
     "webpack": "^5.76.2",
     "webpack-bundle-analyzer": "^4.6.1",
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.9.3"
+    "webpack-dev-server": "^5.2.2"
   },
   "devDependencies": {
     "msw-storybook-addon": "^1.8.0"
